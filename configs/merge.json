@@ -1,0 +1,6 @@
+{
+  "eval_file": "outputs/aime2024_qwen3_eval.jsonl",
+  "predictions_file": "outputs/aime2024_qwen3_boxed.jsonl",
+  "output_file": "outputs/aime2024_qwen3_labeled.jsonl",
+  "keep_fields": "id,query,response,pred,extracted_answer"
+}

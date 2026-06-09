@@ -1,0 +1,8 @@
+{
+  "input_file": "outputs/aime2024_qwen3_metrics.jsonl",
+  "output_file": "figures/aime2024_qwen3_physical_boundary.png",
+  "callback_file": "outputs/aime2024_qwen3_physical_features.jsonl",
+  "roc_file": "figures/aime2024_qwen3_roc.png",
+  "x_metric": "fric_first_100pct",
+  "y_metric": "incoh_last_10pct"
+}

@@ -1,0 +1,13 @@
+{
+  "input_file": "outputs/aime2024_qwen3_labeled.jsonl",
+  "output_file": "outputs/aime2024_qwen3_metrics.jsonl",
+  "model_path": "/path/to/DeepSeek-R1-Distill-Llama-8B",
+  "gpu_ids": "0,1",
+  "prompt_field": "query",
+  "prediction_field": "pred",
+  "prediction_includes_prompt": false,
+  "prompt_prediction_separator": "\n",
+  "first_pcts": [10, 20, 40, 80, 100],
+  "last_pcts": [5, 10, 20],
+  "first_tokens": [2000, 4000, 6000, 8000]
+}

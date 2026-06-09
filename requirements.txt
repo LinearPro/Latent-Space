@@ -1,0 +1,12 @@
+accelerate>=0.30
+matplotlib>=3.8
+numpy>=1.26
+openai>=1.40
+pandas>=2.0
+scikit-learn>=1.4
+seaborn>=0.13
+sentencepiece>=0.2
+torch>=2.2
+tqdm>=4.66
+transformers>=4.40
+vllm>=0.7

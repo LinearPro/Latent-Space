@@ -1,0 +1,5 @@
+{
+  "input_file": "outputs/aime2024_qwen3_metrics.jsonl",
+  "output_file": "figures/aime2024_qwen3_trajectory.png",
+  "pcts": [10, 20, 40, 80, 100]
+}

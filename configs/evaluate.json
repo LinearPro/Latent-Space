@@ -1,0 +1,8 @@
+{
+  "ground_truth_file": "data/aime2024_augmented.jsonl",
+  "predictions_file": "outputs/aime2024_qwen3_boxed.jsonl",
+  "output_file": "outputs/aime2024_qwen3_eval.jsonl",
+  "gt_answer_field": "response",
+  "pred_answer_field": "extracted_answer",
+  "id_field": "id"
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+logs/*
+outputs/*
+figures/*
+
+!logs/.gitkeep
+!outputs/.gitkeep
+!figures/.gitkeep
+
+.DS_Store
+.env
+configs/vllm.env
